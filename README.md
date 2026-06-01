@@ -26,6 +26,7 @@ TOKEN = "SEU_TOKEN_AQUI"
 Execute o bot: 
 
 python main.py
+
 Estrutura do Projeto
 main.py      -> Arquivo principal
 actions.py   -> Comandos e funções
