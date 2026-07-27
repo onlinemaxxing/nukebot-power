@@ -12,7 +12,7 @@ raid em geral
 
 clone o repositório:
 
-git clone https://github.com/onlinemaxxing/nukebot-power.git
+git clone https://github.com/guilhermejan/nukebot-power.git
 cd nukebot-power
 
 instale as dependências:
